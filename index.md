@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Sahil Sawant
 
-You can use the [editor on GitHub](https://github.com/rebel55555/Sahil-Sawant-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## EDUCATION
+#### **Worcester Polytechnic Institute, MA, USA**: _Masters of Science in Data Science_ :- 2021-Present
+#### **Ramrao Adik Institute of Technology, MH, India**: _Bachelor of Engineering in Information Technology_ :- 2013-2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## PROFESSIONAL EXPERIENCE
+#### **Tata Consultancy Services Ltd, Hyderabad, India**: 2017-2019
+```
+- Moderated multiple feature assessment of Networking related security devices of Juniper Networks, Inc. by testing to confirm proper functioning of features.
+- Volunteered Knowledge Transfer sessions and trained team of 10+ students, on topics: Basics of Networking and client related security devices.
+- Technologies used for Automation Testing: PERL, Python, Customized Robot (Python Robot) Scripts from client.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## ACADEMIC PROJECTS
+#### **Directed Research on Topic Modeling – Natural Language Processing** :- 2021 - Present
+```
+- Engineered groundbreaking research in the field of Topic Modeling, with BERT technology.
+- Developed advanced pipeline for pre-existing BERTopic model to provide better results.
+- Worked in a team of 2 to accelerate scores of clustering evaluation metrices devising text-mining models.
+- Inculcate newly found context-aware embeddings to amplify results of advanced BERTopic pipeline.
+```
+#### **[S.E.D.A.N: Speech Emotion Detection and Analysis using Neural Networks](https://github.com/rebel55555/S.E.D.A.N)**:- Sep 2021-Dec 2021
+```
+- Lead a group of 5 on detecting and differentiating between a variety of emotions using 1D-CNN and generating a model to analyze new audio inputs.
+- Incorporated a python-based library called Librosa, for working with detailed audio analysis.
+- Implemented SVM, Logistic Regression, Random Forest, Decision trees, and XG Boost for comparing the different performance metrics for evaluating the effectiveness of the model.
+```
+#### **Surviving Heart Failure**: Mar 2021-May 2021
+```
+- Coalesced a team of 3 to apply machine learning model in R to predict chances of Heart Failure.
+- Pre-processed data to remove missing records and outliers. Normalize data to reduce number of features for better results.
+- Worked on different ML models like SVM, KNN, Random Forest, Logistic Regression and Decision Tree.
+```
+#### **SparkSQL for Processing Purchase Transactions**: Feb 2021-Mar 2021
+```
+- Developed application system for Spark based data management, employed PySpark & Python.
+- Composed dataset- Customers & Purchases using Python, added overlapping and relations to it.
+- Performed condition-based functions on data for example filter, group-by to perform certain tasks. Setup client connection to display output at client end.
+```
+#### **Trekk-e-neering: GIS based application for Trekking**: Aug 2016-Mar 2017
+```
+- Spearheaded a team of 3 on android application using Android Studio, Android SDK and Google APIs, programmed on Java and XML.
+- Provided distance and fastest routes to nearby trekking places utilizing Google APIs.
+- Constructed a sorted array applying bubble sort feature to provide nearby locations for trekking based on distance and current location of user.
+- Incorporated compass feature for trekkers operating built-in gravitational sensors.
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rebel55555/Sahil-Sawant-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## SOFTWARE SKILLS
+#### **Programming Languages**: _Python, R, C, C++, Perl, Java, SQL_
+#### **Tools**: _Pandas, NumPy, SciPy Scikit-learn, Tensorflow, PyTorch, Keras_
+#### **Data Technologies**: _Hadoop, MongoDB, Tableau, Apache Pig, PySpark_
+#### **Design and Simulation Software**: _MATLAB, Scilab_
+#### **Integrated Development Environment**: _PyCharm, VStudio RStudio, Eclipse, Android Studio_
+#### **Web Technologies**: _HTML, CSS, XML, PHP, Javascript_
+#### **Web Technologies**: _HTML, CSS, XML, PHP, Javascript_
