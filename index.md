@@ -1,19 +1,30 @@
 # Sahil Sawant
 
 ## EDUCATION
-#### **Worcester Polytechnic Institute, MA, USA**: _Masters of Science in Data Science_ :- 2021-Present
+#### **Worcester Polytechnic Institute, MA, USA**: _Masters of Science in Data Science_ :- 2021-2022
 #### **Ramrao Adik Institute of Technology, MH, India**: _Bachelor of Engineering in Information Technology_ :- 2013-2017
 
 ## PROFESSIONAL EXPERIENCE
+#### **UMass Chan Medical School, MA, USA**: 2022-2023
+```
+- Enhanced deep learning models to predict suicide risk in Mental Health Research Network data of 0.2M rows.
+- Amplified the performance of TabNet, SGDClassifier, Random Forest and Deep-Forest to gain test AUC of 0.87, 9% better than existing model, by pre-processing, feature engineering.
+- Successfully published and managed complete lifecycle of machine learning models and record results using MLFlow, PyTorch, Tensorflow, Scikit-Learn, Python.
+```
+#### **Findability Sciences, MA, USA**: 2022-2022
+```
+- Delivered scalable exploratory data analysis (EDA) platform using Dask, Fast API, SQL and Pandas.
+- Devised 60+ APIs to manage dataframes and handle datasets faster than the existing platform by 12%, thus saving on average 5 hours per day. Also produced APIs to perform statistical tests and data visualization on big data.
+```
 #### **Tata Consultancy Services Ltd, Hyderabad, India**: 2017-2019
 ```
-- Moderated multiple feature assessment of Networking related security devices of Juniper Networks, Inc. by testing to confirm proper functioning of features.
+- Moderated multiple feature assessment of Networking related security devices of Juniper Networks, Inc. by testing to confirm proper functioning of over 12 features.
 - Volunteered Knowledge Transfer sessions and trained team of 10+ students, on topics: Basics of Networking and client related security devices.
 - Technologies used for Automation Testing: PERL, Python, Customized Robot (Python Robot) Scripts from client.
 ```
 
 ## ACADEMIC PROJECTS
-#### **Directed Research on Topic Modeling – Natural Language Processing** :- 2021 - Present
+#### **Directed Research on Topic Modeling – Natural Language Processing** :- 2021 - 2022
 ```
 - Engineered groundbreaking research in the field of Topic Modeling, with BERT technology.
 - Developed advanced pipeline for pre-existing BERTopic model to provide better results.
